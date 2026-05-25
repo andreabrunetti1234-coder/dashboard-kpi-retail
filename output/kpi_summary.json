@@ -1,0 +1,186 @@
+{
+  "overview": {
+    "orders": 950,
+    "revenue": 201136.62,
+    "profit": 74870.59,
+    "margin_rate": 37.22,
+    "avg_order_value": 211.72,
+    "return_rate": 5.68,
+    "avg_delivery_days": 3.23
+  },
+  "monthly": [
+    {
+      "month": "2025-01",
+      "orders": 70,
+      "revenue": 13600.25,
+      "profit": 5209.32,
+      "return_rate": 7.14
+    },
+    {
+      "month": "2025-02",
+      "orders": 69,
+      "revenue": 13675.75,
+      "profit": 5144.29,
+      "return_rate": 5.8
+    },
+    {
+      "month": "2025-03",
+      "orders": 78,
+      "revenue": 15774.89,
+      "profit": 5737.63,
+      "return_rate": 6.41
+    },
+    {
+      "month": "2025-04",
+      "orders": 67,
+      "revenue": 12300.34,
+      "profit": 4647.21,
+      "return_rate": 5.97
+    },
+    {
+      "month": "2025-05",
+      "orders": 81,
+      "revenue": 18761.26,
+      "profit": 7001.29,
+      "return_rate": 2.47
+    },
+    {
+      "month": "2025-06",
+      "orders": 87,
+      "revenue": 17614.06,
+      "profit": 6437.5,
+      "return_rate": 2.3
+    },
+    {
+      "month": "2025-07",
+      "orders": 84,
+      "revenue": 14155.42,
+      "profit": 5286.5,
+      "return_rate": 8.33
+    },
+    {
+      "month": "2025-08",
+      "orders": 84,
+      "revenue": 13950.07,
+      "profit": 5145.4,
+      "return_rate": 7.14
+    },
+    {
+      "month": "2025-09",
+      "orders": 79,
+      "revenue": 15694.41,
+      "profit": 6003.67,
+      "return_rate": 5.06
+    },
+    {
+      "month": "2025-10",
+      "orders": 77,
+      "revenue": 15745.62,
+      "profit": 5907.18,
+      "return_rate": 5.19
+    },
+    {
+      "month": "2025-11",
+      "orders": 88,
+      "revenue": 30259.59,
+      "profit": 10979.9,
+      "return_rate": 3.41
+    },
+    {
+      "month": "2025-12",
+      "orders": 86,
+      "revenue": 19604.96,
+      "profit": 7370.7,
+      "return_rate": 9.3
+    }
+  ],
+  "by_channel": [
+    {
+      "channel": "Online",
+      "orders": 490,
+      "revenue": 104840.89,
+      "profit": 38233.22,
+      "margin_rate": 36.47,
+      "return_rate": 7.14
+    },
+    {
+      "channel": "Store",
+      "orders": 291,
+      "revenue": 61505.02,
+      "profit": 23328.09,
+      "margin_rate": 37.93,
+      "return_rate": 4.47
+    },
+    {
+      "channel": "Partner",
+      "orders": 169,
+      "revenue": 34790.71,
+      "profit": 13309.28,
+      "margin_rate": 38.26,
+      "return_rate": 3.55
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Elettronica",
+      "orders": 213,
+      "revenue": 90683.11,
+      "profit": 28367.6,
+      "margin_rate": 31.28
+    },
+    {
+      "category": "Casa",
+      "orders": 201,
+      "revenue": 35220.79,
+      "profit": 14445.65,
+      "margin_rate": 41.01
+    },
+    {
+      "category": "Sport",
+      "orders": 166,
+      "revenue": 31466.48,
+      "profit": 11646.64,
+      "margin_rate": 37.01
+    },
+    {
+      "category": "Moda",
+      "orders": 221,
+      "revenue": 29223.55,
+      "profit": 13241.85,
+      "margin_rate": 45.31
+    },
+    {
+      "category": "Beauty",
+      "orders": 149,
+      "revenue": 14542.69,
+      "profit": 7168.85,
+      "margin_rate": 49.3
+    }
+  ],
+  "by_region": [
+    {
+      "region": "Centro",
+      "orders": 313,
+      "revenue": 68756.74,
+      "profit": 25241.51
+    },
+    {
+      "region": "Nord",
+      "orders": 289,
+      "revenue": 59539.1,
+      "profit": 22248.33
+    },
+    {
+      "region": "Sud",
+      "orders": 236,
+      "revenue": 45451.36,
+      "profit": 17279.95
+    },
+    {
+      "region": "Isole",
+      "orders": 112,
+      "revenue": 27389.42,
+      "profit": 10100.8
+    }
+  ]
+}
