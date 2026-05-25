@@ -2,6 +2,8 @@
 
 Progetto portfolio junior Data Analyst basato su un dataset retail simulato. L'obiettivo e' costruire un report operativo sintetico per monitorare vendite, marginalita, canali, categorie e resi.
 
+![Dashboard KPI Retail](assets/dashboard-preview.png)
+
 ## Obiettivo
 
 Analizzare un flusso ordini e-commerce e trasformarlo in KPI leggibili per supportare decisioni operative:
