@@ -59,29 +59,4 @@ python scripts/build_dashboard.py
 
 Aprire poi `dashboard/index.html` nel browser.
 
-## Pubblicazione su GitHub
 
-Nome repository consigliato: `dashboard-kpi-retail`
-
-Descrizione breve consigliata:
-
-```text
-Dashboard KPI e reporting operativo su dataset retail simulato con Python, SQL/SQLite e HTML/CSS.
-```
-
-Il file `data/retail_orders.db` e' generato automaticamente dallo script e non va caricato se si usa Git; viene escluso da `.gitignore`. Per ricrearlo basta eseguire:
-
-```powershell
-python scripts/generate_data.py
-```
-
-## Insight principali da commentare
-
-- Il canale online genera una quota rilevante dei ricavi, ma va monitorato rispetto a resi e marginalita.
-- Le categorie con ricavi piu' alti non coincidono sempre con quelle a margine percentuale maggiore.
-- Il tasso di reso e i giorni medi di consegna sono indicatori operativi utili per leggere la qualita del servizio.
-- La vista mensile permette di individuare stagionalita, picchi e rallentamenti.
-
-## Frase pronta per il CV
-
-Dashboard KPI e reporting operativo su dataset retail simulato: data cleaning, analisi esplorativa, query SQL, calcolo KPI commerciali e costruzione di una dashboard HTML per monitorare ricavi, margine, ordini, canali e resi.
